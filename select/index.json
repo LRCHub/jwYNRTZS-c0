@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "藍の華",
+  "base_artist": "HIMEHINA",
+  "createdAt": "2026-03-18T03:33:25.946326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水たまりロンド (Encore) - Live2022『藍の華』 -",
+      "artist": "HIMEHINA",
+      "has_synced": true,
+      "path": "select/01_水たまりロンド_(Encore)_-_Live2022『藍の華』_-_HIMEHINA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "藍の華",
+      "artist": "HIMEHINA",
+      "has_synced": false,
+      "path": "select/pl_01_藍の華_HIMEHINA.txt"
+    }
+  ]
+}
